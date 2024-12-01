@@ -2,12 +2,12 @@ html {
     background: #111;
 }
 body {
-    background: #2b043c;
+    background: #2b043c !important;
     width: 800px;
     margin: 0 auto;
     padding: 2rem;
 
-    font-family: "DynaPuff" , system-ui !important ;
+    font-family: "DynaPuff" , system-ui;
     line-height: 1.75;
     color: #ffffff;
 }

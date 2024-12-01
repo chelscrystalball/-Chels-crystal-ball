@@ -7,7 +7,7 @@ body {
     margin: 0 auto;
     padding: 2rem;
 
-    font-family: "DynaPuff", system-ui;
+    font-family: "DynaPuff" , system-ui !important ;
     line-height: 1.75;
     color: #ffffff;
 }
